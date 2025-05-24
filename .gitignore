@@ -5,6 +5,9 @@
 *.feather
 *.h5
 
+*.png
+
+
 # 大文件
 *.zip
 *.7z
